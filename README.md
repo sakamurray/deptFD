@@ -1,4 +1,4 @@
-# 2022年度学科FD研修会研修会用リポジトリ
+# 2022年度学科FD研修会用リポジトリ
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sakamurray/deptfd/HEAD)
 
